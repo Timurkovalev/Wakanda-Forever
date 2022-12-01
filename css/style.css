@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+    color: aqua;
+}
+.black {
+    color: black;
+}
+.aqua {
+    color: aqua;
+}
+ol {
+    font-size: 22px;
+}
+.aqua a{
+    color: aqua;
+}
+span {
+    color: blue;
+}
+td {
+    border: 4px solid black ;
+}
